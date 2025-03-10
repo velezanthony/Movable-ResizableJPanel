@@ -42,7 +42,9 @@ public class Main {
         // Show the window
         frame.setVisible(true);
     }
-}```
+}
+```
+
 
 ## Manifest and .jar Creation
 If you modify the MovableJPanel class and want to regenerate the .jar file, follow these steps:
