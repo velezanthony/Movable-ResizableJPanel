@@ -43,7 +43,7 @@ public class Main {
         frame.setVisible(true);
     }
 }
-Manifest and .jar Creation
+## Manifest and .jar Creation
 If you modify the MovableJPanel class and want to regenerate the .jar file, follow these steps:
 
 Compile the Java Class: In your terminal or command prompt, navigate to the directory containing MovableJPanel.java and run:
